@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1040810310962",
+    "firebase_url": "https://marson-e-sell.firebaseio.com",
+    "project_id": "marson-e-sell",
+    "storage_bucket": "marson-e-sell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040810310962:android:12b63942a15e010c41ab2b",
+        "android_client_info": {
+          "package_name": "com.margsglobal.marsonkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040810310962-r0fq8gicukdq8g1cqh7a4ki6t6f7l56l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6bKb0maEb_Ma2bcz66Itg2CXDqWaGEps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040810310962-r0fq8gicukdq8g1cqh7a4ki6t6f7l56l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

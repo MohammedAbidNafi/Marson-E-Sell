@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Marson E-Sell</string>
+
+    <string name="about">Marson is an second hand furniture shop located in Bazzar road Madipakkam Chennai-91. For the convenience of our customers we have developed a system where our customers can sell their old items online if we are interested then we ourselves will come and pickup the object and will pay a fair price for it. If your looking for any second hand furniture contact us. The following are the items we currently take.</string>
+    <string name="things_list">
+        <ul>
+            \n<b><li><i>Bed</i></li></b>
+            \n<b><li>Chair</li></b>
+            \n<b><li>Table</li></b>
+            \n<b><li>Fan</li></b>
+            \n<b><li>Computer and Parts</li></b>
+            \n<b><li>Laptop and Parts</li></b>
+            \n<b><li>Sofa</li></b>
+            \n<b><li>CupBoard</li></b>
+            \n<b><li>Fridge</li></b>
+            \n<b><li>Air Conditions</li></b>
+            \n<b><li>Batteries</li></b>
+            \n<b><li>Television (TV)</li></b>
+            \n<b><li>Mixer</li></b>
+            \n<b><li>Grinder</li></b>
+            \n<b><li>Gas Stove</li></b>
+            \n<b><li>Many more....</li></b>
+        </ul>
+
+    </string>
+    <string name="banner_ad_unit_id">ca-app-pub-5615682506938042/5587840194</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
